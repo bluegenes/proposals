@@ -9,11 +9,12 @@ The RNA-Seq workshop will serve 35 people and have 5 instructors, and run for 2 
 7 days x 24 hours/day x 6 vCPU x 40 participants = 40,320 SU’s
 100 GB storage x 40 students
 
-Materials available at: http://rnaseq-workshop-2017.readthedocs.io/en/latest/
+**Materials available at:** http://rnaseq-workshop-2017.readthedocs.io/en/latest/
 
-Field of Study: Biological Sciences, Genomics
+**Field of Study:** Biological Sciences, Genomics
 
-Keywords:  training, sequencing, bioinformatics, RNAseq
+**Keywords:**  training, sequencing, bioinformatics, RNAseq
 
-PI: Lena Gerwick
-Co-PI: N. Tessa Pierce
+**PI:** Lena Gerwick
+
+**Co-PI:** N. Tessa Pierce
