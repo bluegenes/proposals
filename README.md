@@ -1,1 +1,1 @@
-# xsede_proposals
+# Proposals
